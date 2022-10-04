@@ -1,0 +1,28 @@
+Uri: https://nanospeedgameryt.github.io/
+File Name: C:\Downloaded Web Sites\nanospeedgameryt.github.io\index.htm
+Content Type: text/html
+
+Uri: https://nanospeedgameryt.github.io/host.jpg
+File Name: C:\Downloaded Web Sites\nanospeedgameryt.github.io\host.jpg
+Content Type: image/jpeg
+
+Uri: https://nanospeedgameryt.github.io/payload.js
+File Name: C:\Downloaded Web Sites\nanospeedgameryt.github.io\payload.js
+Content Type: application/javascript
+
+Uri: https://nanospeedgameryt.github.io/int64.js
+File Name: C:\Downloaded Web Sites\nanospeedgameryt.github.io\int64.js
+Content Type: application/javascript
+
+Uri: https://nanospeedgameryt.github.io/rop.js
+File Name: C:\Downloaded Web Sites\nanospeedgameryt.github.io\rop.js
+Content Type: application/javascript
+
+Uri: https://nanospeedgameryt.github.io/kexploit.js
+File Name: C:\Downloaded Web Sites\nanospeedgameryt.github.io\kexploit.js
+Content Type: application/javascript
+
+Uri: https://nanospeedgameryt.github.io/webkit.js
+File Name: C:\Downloaded Web Sites\nanospeedgameryt.github.io\webkit.js
+Content Type: application/javascript
+
