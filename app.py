@@ -111,7 +111,7 @@ def add_header(r):
 
 if __name__ == '__main__':
     args = argparse.ArgumentParser()
-    args.add_argument("--host", required=False, type=str, default='0.0.0.0')
+    args.add_argument("--host", required=False, type=str, default='https://asyaplaystation.github.io')
     args.add_argument("--port", required=False, type=int, default=1337)
     args.add_argument("--offline", default=False, action="store_true", help="Do not attempt to update GoldHEN")
     args.add_argument("--update", default=False, action="store_true", help="Force update GoldHEN")
